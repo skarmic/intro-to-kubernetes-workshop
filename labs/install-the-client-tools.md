@@ -12,6 +12,8 @@ gcloud config set project <your-project-name>
 Note: if you don't yet have a Google Cloud project created, then follow the signup
 instructions [here](https://cloud.google.com/compute/docs/signup).
 
+Note:You must enable the Google Compute Engine API for your project via the google developer console.
+
 Grab the service account docs from here:
 
 [Google Service Account Docs](https://developers.google.com/console/help/new/#serviceaccounts)
